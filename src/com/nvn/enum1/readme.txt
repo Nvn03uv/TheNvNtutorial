@@ -1,0 +1,1 @@
+Enum was introduced in Java 5.
